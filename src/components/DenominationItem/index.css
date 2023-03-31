@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-container {
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 19px;
+  color: #d4d2db;
+  font-weight: 500;
+  background-color: #382f5a;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
